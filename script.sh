@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # Set the repository owner and name
-repo_owner="OWNER"
-repo_name="REPO"
+repo_owner="AlloryDante"
+repo_name="Matrix-Rewards-Bot"
 
 # Set the desired installation directory
 install_dir="/data/data/com.termux/files/home"
